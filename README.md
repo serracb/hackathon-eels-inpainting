@@ -11,11 +11,8 @@ The results obtained have been compared with those obtained by the rapid methods
 
 Reconstruction on a 20% real SCAM (HR-sample) returns the result.
 
-<p align="center">
-  <img width=285 src="img/spectre_key4.png">
-  <img width=285 src="img/moqueta_key4.png">
-</p>
-
-<!-- width=285 height=577 -->
+Spectral dimension           |  Spatial dimension
+:-------------------------:|:-------------------------:
+<img src="img/spectre_key4.jpeg" height="250">  |  <img src="img/moqueta_key4.jpeg" height="250">
 
 Similarly, image reconstructions can be launched with the main notebook on any multispectral image, the neural network architecture being optimised for EELS images
